@@ -1,18 +1,18 @@
 # Site settings
 
-title: Hi, I'm Yu Zhou # Title of your site
+title: Hi, I'm Dan Nguyen # Title of your site
 email: your-email@domain.com # Your contant email
 
 # Social links.
 # Replace the word 'example' with your username if you want to include the icon in the left sidebar
 # Delete the word 'example' if you don't want to include the icon in the left sidebar
-title: Yu Zhou # Title of your site
-email: yu.zhou.jr@gmail.com # Your contant email
+title: Dan Nguyen # Title of your site
+email: dan.nguyen7@yahoo.com # Your contant email
 
 #description: > 
 
 #baseurl: "" # the subpath of your site, e.g. /blog/
-url: "yuzhoujr.github.io" # the base hostname & protocol for your site
+url: "danvn.github.io" # the base hostname & protocol for your site
 
 twitter_username:     example  # Replace this with your Twitter username
 github_username:      example  # Replace this with your GitHub username
