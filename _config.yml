@@ -1,10 +1,10 @@
 # Site
 title:              Moon
-bio:                'Software Developer at ReadyTalk, Denver, Colorado <br/> If you believe in me, then we have someting in common'
+bio:                'Software Developer <br/> ReadyTalk, Denver, Colorado <br/><br/> If you believe in me, then we have someting in common'
 description:        "If you believe in me, then we have someting in common"
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
+logo:               'images/profile.JPG'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
@@ -38,18 +38,17 @@ disqus_shortname:   taylantatli
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            username
-facebook:           username
-github:             username
+twitter:            dannguyen7
+facebook:           dan.nguyen.7
+github:             danvn
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+linkedin:           NguyenVDan
 #xing:              username
-instagram:          username
+instagram:          danvn
 #lastfm:            username
 #tumblr:            username
 #pinterest:         username
-#foursquare:        username
-steam:              username
+#steam:             username
 #dribbble:          username
 #youtube:           username
 #soundcloud:        username
