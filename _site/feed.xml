@@ -3,9 +3,109 @@
 <generator uri="http://jekyllrb.com" version="3.1.1">Jekyll</generator>
 <link href="http://dannguyen.me//feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://dannguyen.me//" rel="alternate" type="text/html" />
-<updated>2016-10-05T22:19:33-06:00</updated>
+<updated>2016-11-10T09:22:39-07:00</updated>
 <id>http://dannguyen.me//</id>
 <subtitle></subtitle>
+<entry>
+<title>Recaptain</title>
+<link href="http://dannguyen.me//recaptain/" rel="alternate" type="text/html" title="Recaptain" />
+<published>2016-11-09T00:00:00-07:00</published>
+<updated>2016-11-09T00:00:00-07:00</updated>
+<id>http://dannguyen.me//recaptain</id>
+<content type="html" xml:base="http://dannguyen.me//recaptain/">&lt;h1 id=&quot;recaptain&quot;&gt;Recaptain&lt;/h1&gt;
+&lt;p&gt;ReadyTalk Intern Project Summer 2016&lt;/p&gt;
+
+&lt;p&gt;Recaptain is a bot build for Slack, a cloud-based team collaboration software tool. Recaptain is used to summarize the chat log in a public channel in the team. A user would install the Recaptain bot, then message Recaptain to request a summary of a desired chanel. Recaptain will respond with key messages from the conversation that are marked at a higher importance. A message becomes important from a message analyzer library called Watson.&lt;/p&gt;
+
+&lt;h2 id=&quot;installation&quot;&gt;Installation&lt;/h2&gt;
+
+&lt;h2 id=&quot;requirements&quot;&gt;Requirements:&lt;/h2&gt;
+&lt;p&gt;node v6.2.2&lt;/p&gt;
+
+&lt;p&gt;Generate a unique token for the bot on 
+	&lt;a href=&quot;https://team_name.slack.com/apps/build/custom-integration&quot;&gt;slack: &lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Bots -&amp;gt; Bot Username -&amp;gt; Add Bot Integration
+Copy the API Token from the Integration settings 
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;running&quot;&gt;Running&lt;/h2&gt;
+&lt;p&gt;from root dir, run&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;token=... node app.js&lt;/code&gt;
+	&lt;b&gt;OR&lt;/b&gt;
+&lt;code class=&quot;highlighter-rouge&quot;&gt;token=... npm start&lt;/code&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;production-docker&quot;&gt;Production Docker&lt;/h2&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;
+docker build -f Dockerfile-prod -t &quot;recapitan-prod&quot; .
+docker run recapitan-prod --env=TOKEN=....
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;usage&quot;&gt;Usage&lt;/h2&gt;
+&lt;p&gt;Once Recaptain is in the slack team, simple ‘Direct Message’ the bot.
+The avaliable commands are
+{% highlight yaml %}
+hi
+help
+recap
+recap #channel_name1 #channel_name2 …
+{% endhighlight %}&lt;/p&gt;
+
+&lt;h3 id=&quot;the-help-command-is-the-easiest-way-to-get-started&quot;&gt;The help command is the easiest way to get started&lt;/h3&gt;
+&lt;p&gt;It will give you a tutorial to use the bot with a bunch of helful parameters to get you the summary you want.&lt;/p&gt;
+</content>
+<category term="internship" />
+<category term="software" />
+<category term="machine_learning" />
+<category term="NLP" />
+<category term="Watson" />
+<category term="Docker" />
+<category term="Slack" />
+<category term="Bot" />
+<category term="AI" />
+<category term="Readytalk" />
+<summary>Summer 2016 Internship for ReadyTalk, Denver (LoDo)</summary>
+</entry>
+<entry>
+<title>Testing Post Creation</title>
+<link href="http://dannguyen.me//testing-post-creation/" rel="alternate" type="text/html" title="Testing Post Creation" />
+<published>2016-11-08T00:00:00-07:00</published>
+<updated>2016-11-08T00:00:00-07:00</updated>
+<id>http://dannguyen.me//testing-post-creation</id>
+<content type="html" xml:base="http://dannguyen.me//testing-post-creation/">&lt;center&gt;My friend Liz wanted me to help her work on some of her personal website so here is how easy embedding a Powerpoint is on Jekyll&lt;/center&gt;
+
+&lt;style&gt;
+.responsive-wrap iframe{ max-width: 100%;}
+&lt;/style&gt;
+
+&lt;div class=&quot;responsive-wrap&quot;&gt;
+&lt;!-- this is the embed code provided by Google --&gt;
+  &lt;iframe src=&quot;https://o365coloradoedu-my.sharepoint.com/personal/dang0146_colorado_edu/_layouts/15/WopiFrame.aspx?sourcedoc={dab90a2f-a984-4a56-90bf-c9bbcc1b0ee9}&amp;amp;action=embedview&amp;amp;wdAr=1.7777777777777777&quot; frameborder=&quot;0&quot; width=&quot;960&quot; height=&quot;569&quot; allowfullscreen=&quot;true&quot; mozallowfullscreen=&quot;true&quot; webkitallowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
+&lt;!-- Google embed ends --&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;embedding-powerpoints-in-jekyll-posts&quot;&gt;Embedding Powerpoints in Jekyll Posts&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Create a Powerpoint or Google Slide Presentation&lt;/li&gt;
+  &lt;li&gt;Save to Microsoft One Drive&lt;/li&gt;
+  &lt;li&gt;File -&amp;gt; Share -&amp;gt; Embed&lt;/li&gt;
+  &lt;li&gt;Copy -&amp;gt; Paste in date-your-blog-post-here.md&lt;/li&gt;
+  &lt;li&gt;$ $ $&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;That’s all.&lt;/p&gt;
+
+</content>
+<category term="jekyll" />
+<category term="moon" />
+<category term="blog" />
+<category term="about" />
+<category term="theme" />
+<summary>Hey look, it worked!</summary>
+</entry>
 <entry>
 <title>Moon Jekyll Theme</title>
 <link href="http://dannguyen.me//moon-theme/" rel="alternate" type="text/html" title="Moon Jekyll Theme" />
@@ -175,8 +275,8 @@ feaure: http://example.com/some-image.png
 <summary>Minimal, one column Jekyll theme for your blog.</summary>
 </entry>
 <entry>
-<title>Markdown Syntax</title>
-<link href="http://dannguyen.me//markdown-syntax/" rel="alternate" type="text/html" title="Markdown Syntax" />
+<title>Markdown Syntax, Bruh</title>
+<link href="http://dannguyen.me//markdown-syntax/" rel="alternate" type="text/html" title="Markdown Syntax, Bruh" />
 <published>2016-03-15T00:00:00-06:00</published>
 <updated>2016-03-15T00:00:00-06:00</updated>
 <id>http://dannguyen.me//markdown-syntax</id>
