@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Post with Images"
+title: "A Post with Images, and NBA Memes"
 date: 2013-05-22
 excerpt: "Examples and code for displaying images in posts."
 tags: [sample post, images, test]
@@ -90,8 +90,8 @@ Available values: [1..3].
 It will look something like this:
 
 {% capture images %}
-	http://vignette2.wikia.nocookie.net/naruto/images/9/97/Hinata.png
-	http://vignette4.wikia.nocookie.net/naruto/images/7/79/Hinata_Part_II.png
-	http://vignette1.wikia.nocookie.net/naruto/images/1/15/J%C5%ABho_S%C5%8Dshiken.png
+	http://media.npr.org/assets/img/2016/03/29/ap_090911089838_sq-3271237f28995f6530d9634ff27228cae88e3440-s900-c85.jpg
+	https://s-media-cache-ak0.pinimg.com/originals/a0/5a/61/a05a6168b331ce2583f19d3e2488a4b1.jpg
+	http://www.yournewszone.com/wp-content/uploads/2016/05/nba-funniest-bloopers-of-all-time-vol-3-funny-basketball-youtube-thumbnail-640x400.jpg
 {% endcapture %}
 {% include gallery images=images caption="Test images" cols=3 %}

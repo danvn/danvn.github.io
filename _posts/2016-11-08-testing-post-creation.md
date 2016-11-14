@@ -3,7 +3,7 @@ layout: post
 title:  "Testing Post Creation"
 date:   2016-11-08
 excerpt: "Hey look, it worked!"
-project: true
+project: false
 tag:
 - jekyll 
 - moon
