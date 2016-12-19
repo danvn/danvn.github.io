@@ -42,7 +42,28 @@ from root dir, run
 	<b>OR</b>
 `token=... npm start`
 
-## Production Docker
+## Docker
+
+One of the goals for the project was to ship the software public so that any company or Slack team would be able to use Recaptain. 
+I learned about Docker which is a solution to software dependencies and inconsistencies in the form of containers. 
+
+In the way that Virtual Machines separate operating systems from the underlying hardware that they run on,
+
+Docker separates applications from the underlying operating systems that they run on.
+
+When deploying software with a Virtual Machine, an application consists of a the application code, bins/libraries, and a heavy "Guest OS". The Guest OS can be heavy and decrease portability and causes trouble in terms of tying the application to the OS.
+
+Docker <i>virtualizes</i> the OS. Only our application and its dependencies are contained which makes our application extremely fast and portable, and we don't have the operating system to worry about; it is outside of our container. We can deploy these containers virtually anywhere (desktops / laptops / virtual machines / clouds). They also have very flexible scalability. 
+
+Developers can build in any language, any environment, with any tools. 
+
+Dockerized applications can run anywhere and on anything, so we don't have to worry about anything when porting or deploying our applications.
+
+Docker fights against "Dependency Hell", uniting devlopers and system administrators.
+
+In practice, we will have a base <b>image</b> layer that contains our environment and application (node on ubuntu, for us in this example). When we are ready to update a new image layer, to update, one must only simply download the new layer which are only the new changes; not the whole image again.
+
+Then we move to <b>containers</b>, where we essentially turn those images "on". We then spin up a new container, specifiying an image, and we have a live environment and application running in our <i>isolated</i> container. We can <i>start, stop, move, and delete</i> containers. 
 
 ```
 docker build -f Dockerfile-prod -t "recapitan-prod" .

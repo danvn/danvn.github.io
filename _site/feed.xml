@@ -3,7 +3,7 @@
 <generator uri="http://jekyllrb.com" version="3.1.1">Jekyll</generator>
 <link href="http://dannguyen.me//feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://dannguyen.me//" rel="alternate" type="text/html" />
-<updated>2016-11-14T15:15:51-07:00</updated>
+<updated>2016-12-19T13:37:35-07:00</updated>
 <id>http://dannguyen.me//</id>
 <subtitle></subtitle>
 <entry>
@@ -37,7 +37,28 @@ Copy the API Token from the Integration settings
 	&lt;b&gt;OR&lt;/b&gt;
 &lt;code class=&quot;highlighter-rouge&quot;&gt;token=... npm start&lt;/code&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;production-docker&quot;&gt;Production Docker&lt;/h2&gt;
+&lt;h2 id=&quot;docker&quot;&gt;Docker&lt;/h2&gt;
+
+&lt;p&gt;One of the goals for the project was to ship the software public so that any company or Slack team would be able to use Recaptain. 
+I learned about Docker which is a solution to software dependencies and inconsistencies in the form of containers.&lt;/p&gt;
+
+&lt;p&gt;In the way that Virtual Machines separate operating systems from the underlying hardware that they run on,&lt;/p&gt;
+
+&lt;p&gt;Docker separates applications from the underlying operating systems that they run on.&lt;/p&gt;
+
+&lt;p&gt;When deploying software with a Virtual Machine, an application consists of a the application code, bins/libraries, and a heavy “Guest OS”. The Guest OS can be heavy and decrease portability and causes trouble in terms of tying the application to the OS.&lt;/p&gt;
+
+&lt;p&gt;Docker &lt;i&gt;virtualizes&lt;/i&gt; the OS. Only our application and its dependencies are contained which makes our application extremely fast and portable, and we don’t have the operating system to worry about; it is outside of our container. We can deploy these containers virtually anywhere (desktops / laptops / virtual machines / clouds). They also have very flexible scalability.&lt;/p&gt;
+
+&lt;p&gt;Developers can build in any language, any environment, with any tools.&lt;/p&gt;
+
+&lt;p&gt;Dockerized applications can run anywhere and on anything, so we don’t have to worry about anything when porting or deploying our applications.&lt;/p&gt;
+
+&lt;p&gt;Docker fights against “Dependency Hell”, uniting devlopers and system administrators.&lt;/p&gt;
+
+&lt;p&gt;In practice, we will have a base &lt;b&gt;image&lt;/b&gt; layer that contains our environment and application (node on ubuntu, for us in this example). When we are ready to update a new image layer, to update, one must only simply download the new layer which are only the new changes; not the whole image again.&lt;/p&gt;
+
+&lt;p&gt;Then we move to &lt;b&gt;containers&lt;/b&gt;, where we essentially turn those images “on”. We then spin up a new container, specifiying an image, and we have a live environment and application running in our &lt;i&gt;isolated&lt;/i&gt; container. We can &lt;i&gt;start, stop, move, and delete&lt;/i&gt; containers.&lt;/p&gt;
 
 &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;
 docker build -f Dockerfile-prod -t &quot;recapitan-prod&quot; .
