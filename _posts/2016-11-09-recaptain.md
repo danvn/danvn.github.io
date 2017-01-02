@@ -24,6 +24,19 @@ ReadyTalk Intern Project Summer 2016
 Recaptain is a bot build for Slack, a cloud-based team collaboration software tool. Recaptain is used to summarize the chat log in a public channel in the team. A user would install the Recaptain bot, then message Recaptain to request a summary of a desired chanel. Recaptain will respond with key messages from the conversation that are marked at a higher importance. A message becomes important from a message analyzer library called Watson. 
 
 
+The Recaptain Slack Bot made for ReadyTalk Summer 2016 was the largest project I've contributed to and I feel I made a large impact.
+
+4 of us interns were sought out to provide solutions to the problem of "Too much chat, not enough time". This problem was a reference to the amount of non-work-related messages on Slack. 
+
+The full blog of the project can be found at http://dannguyen.me//recaptain/
+
+To understand the problem we looked through our teams channels and chat logs. We understood that people don't want to be sent memes or gifs when they are trying to be productive.
+
+The Recaptain Bot used IBM Watson NLP API to determine which messages were important. I contributed a message scoring system that made calls to Slack to retrieve messages and return to the user daily "Recap" of the channel.
+
+I constructed the methods used to talk to Slack and respond to the user as per request. The response to the user was a "Recap" of the most important messages from the channel in a given time range, ignoring the fluff of giphy memes and images, and only delivering the "important" messages, as deemed by our NLP library. 
+
+
 ## Installation
 
 ## Requirements:
