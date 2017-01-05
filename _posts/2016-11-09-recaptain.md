@@ -18,21 +18,26 @@ tag:
 comments: true
 ---
 
-# Recaptain
-ReadyTalk Intern Project Summer 2016
+<img src="../images/readytalk-logo.png" alt="Drawing" style="width: 200px;"/>
+
+<h1 align="center">
+  ReadyTalk Intern Project Summer 2016
+</h1>
+
+#The Recaptain Slack Bot
 
 Recaptain is a bot build for Slack, a cloud-based team collaboration software tool. Recaptain is used to summarize the chat log in a public channel in the team. A user would install the Recaptain bot, then message Recaptain to request a summary of a desired chanel. Recaptain will respond with key messages from the conversation that are marked at a higher importance. A message becomes important from a message analyzer library called Watson. 
 
 
 The Recaptain Slack Bot made for ReadyTalk Summer 2016 was the largest project I've contributed to and I feel I made a large impact.
 
+##The Problem
 4 of us interns were sought out to provide solutions to the problem of "Too much chat, not enough time". This problem was a reference to the amount of non-work-related messages on Slack. 
-
-The full blog of the project can be found at http://dannguyen.me//recaptain/
 
 To understand the problem we looked through our teams channels and chat logs. We understood that people don't want to be sent memes or gifs when they are trying to be productive.
 
-The Recaptain Bot used IBM Watson NLP API to determine which messages were important. I contributed a message scoring system that made calls to Slack to retrieve messages and return to the user daily "Recap" of the channel.
+##The Solution
+The Recaptain Bot used IBM Watson NLP API to determine which messages were important. I contributed functions in the lib/ package that made calls to the Slack API. The results of these functions were fed to Watson to determine their importance. Using AlchemyLanguage API, we developed a message scoring system that each message based on its relative importance in comparison to the rest of the messages in the message object returned from Slack. 
 
 I constructed the methods used to talk to Slack and respond to the user as per request. The response to the user was a "Recap" of the most important messages from the channel in a given time range, ignoring the fluff of giphy memes and images, and only delivering the "important" messages, as deemed by our NLP library. 
 
