@@ -3,7 +3,7 @@
 <generator uri="http://jekyllrb.com" version="3.1.1">Jekyll</generator>
 <link href="http://dannguyen.me//feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://dannguyen.me//" rel="alternate" type="text/html" />
-<updated>2017-01-02T12:11:22-07:00</updated>
+<updated>2017-01-05T12:18:27-07:00</updated>
 <id>http://dannguyen.me//</id>
 <subtitle></subtitle>
 <entry>
@@ -12,20 +12,25 @@
 <published>2016-11-09T00:00:00-07:00</published>
 <updated>2016-11-09T00:00:00-07:00</updated>
 <id>http://dannguyen.me//recaptain</id>
-<content type="html" xml:base="http://dannguyen.me//recaptain/">&lt;h1 id=&quot;recaptain&quot;&gt;Recaptain&lt;/h1&gt;
-&lt;p&gt;ReadyTalk Intern Project Summer 2016&lt;/p&gt;
+<content type="html" xml:base="http://dannguyen.me//recaptain/">&lt;p&gt;&lt;img src=&quot;../images/readytalk-logo.png&quot; alt=&quot;Drawing&quot; style=&quot;width: 200px;&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 align=&quot;center&quot;&gt;
+  ReadyTalk Intern Project Summer 2016
+&lt;/h1&gt;
+
+&lt;h1 id=&quot;the-recaptain-slack-bot&quot;&gt;The Recaptain Slack Bot&lt;/h1&gt;
 
 &lt;p&gt;Recaptain is a bot build for Slack, a cloud-based team collaboration software tool. Recaptain is used to summarize the chat log in a public channel in the team. A user would install the Recaptain bot, then message Recaptain to request a summary of a desired chanel. Recaptain will respond with key messages from the conversation that are marked at a higher importance. A message becomes important from a message analyzer library called Watson.&lt;/p&gt;
 
 &lt;p&gt;The Recaptain Slack Bot made for ReadyTalk Summer 2016 was the largest project I’ve contributed to and I feel I made a large impact.&lt;/p&gt;
 
+&lt;h2 id=&quot;the-problem&quot;&gt;The Problem&lt;/h2&gt;
 &lt;p&gt;4 of us interns were sought out to provide solutions to the problem of “Too much chat, not enough time”. This problem was a reference to the amount of non-work-related messages on Slack.&lt;/p&gt;
-
-&lt;p&gt;The full blog of the project can be found at http://dannguyen.me//recaptain/&lt;/p&gt;
 
 &lt;p&gt;To understand the problem we looked through our teams channels and chat logs. We understood that people don’t want to be sent memes or gifs when they are trying to be productive.&lt;/p&gt;
 
-&lt;p&gt;The Recaptain Bot used IBM Watson NLP API to determine which messages were important. I contributed a message scoring system that made calls to Slack to retrieve messages and return to the user daily “Recap” of the channel.&lt;/p&gt;
+&lt;h2 id=&quot;the-solution&quot;&gt;The Solution&lt;/h2&gt;
+&lt;p&gt;The Recaptain Bot used IBM Watson NLP API to determine which messages were important. I contributed functions in the lib/ package that made calls to the Slack API. The results of these functions were fed to Watson to determine their importance. Using AlchemyLanguage API, we developed a message scoring system that each message based on its relative importance in comparison to the rest of the messages in the message object returned from Slack.&lt;/p&gt;
 
 &lt;p&gt;I constructed the methods used to talk to Slack and respond to the user as per request. The response to the user was a “Recap” of the most important messages from the channel in a given time range, ignoring the fluff of giphy memes and images, and only delivering the “important” messages, as deemed by our NLP library.&lt;/p&gt;
 
