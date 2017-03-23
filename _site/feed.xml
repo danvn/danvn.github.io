@@ -3,7 +3,7 @@
 <generator uri="http://jekyllrb.com" version="3.1.1">Jekyll</generator>
 <link href="https://www.dannguyen.me/feed.xml" rel="self" type="application/atom+xml" />
 <link href="https://www.dannguyen.me/" rel="alternate" type="text/html" />
-<updated>2017-03-19T18:33:18-06:00</updated>
+<updated>2017-03-22T10:22:22-06:00</updated>
 <id>https://www.dannguyen.me/</id>
 <subtitle></subtitle>
 <entry>
@@ -94,6 +94,137 @@ As you can see, I only got 1 view from Oregon (Nike HQ is located in Beaverton, 
 <category term="nike" />
 <category term="internship" />
 <summary>Why having drive is the most important in acheiving goals.</summary>
+</entry>
+<entry>
+<title>testmd</title>
+<link href="https://www.dannguyen.me/testmd/" rel="alternate" type="text/html" title="testmd" />
+<published>2016-11-09T00:00:00-07:00</published>
+<updated>2016-11-09T00:00:00-07:00</updated>
+<id>https://www.dannguyen.me/testmd</id>
+<content type="html" xml:base="https://www.dannguyen.me/testmd/">&lt;html lang=&quot;en&quot;&gt;
+   &lt;head&gt;
+      &lt;meta charset=&quot;utf-8&quot; /&gt;
+      &lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge&quot; /&gt;
+      &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1&quot; /&gt;
+      &lt;title&gt;Academic Resources for Computer Science&lt;/title&gt;
+	  &lt;link rel=&quot;stylesheet&quot; href=&quot;style.css&quot; /&gt;
+   &lt;/head&gt;
+   &lt;body id=&quot;home&quot;&gt;
+      &lt;div class=&quot;container&quot;&gt;
+         &lt;div class=&quot;jumbotron&quot;&gt;
+            &lt;h1&gt;Academic Resources for Computer Science&lt;/h1&gt;
+            &lt;p&gt;&lt;b&gt;August 2016 release.&lt;/b&gt; &lt;i&gt;The content and code on this repo is in Preview. It&#39;s intended for review and collaboration with Microsoft developer advocates and the academic community under &lt;a href=&quot;https://github.com/MSFTImagine/computerscience/blob/master/LICENSE.md&quot;&gt;MIT license&lt;/a&gt;. Please check back regularly for updated versions.&lt;/i&gt; &lt;b&gt;Source:&lt;/b&gt; &lt;a href=&quot;https://github.com/MSFTImagine/computerscience&quot;&gt;https://github.com/MSFTImagine/computerscience&lt;/a&gt;.&lt;/p&gt;
+            &lt;p&gt;
+               This repo provides technical resources for faculty, students, and Microsoft developer advocates for use in computer science learning. The modules cover common cross-platform scenarios including mobile app dev, web dev, internet of things, data science, machine learning, and devops. Content delivery is divided into three groups: Complimentary Course Content, Tech Talks, and Workshops.&lt;/p&gt;
+               &lt;p&gt;Most hands-on learning focuses on how to deploy cross-platform technologies on Microsoft Azure although most of the concepts can be applied across many cloud platform solutions. Academic users can get free Azure from various programs like 
+            &lt;a href=&quot;https://azure.microsoft.com/en-us/free/&quot;&gt;Free Azure Trial&lt;/a&gt;, 
+            &lt;a href=&quot;https://www.dreamspark.com/student/default.aspx&quot;&gt;Microsoft Imagine&lt;/a&gt;, 
+            &lt;a href=&quot;http://www.microsoftazurepass.com/&quot;&gt;Azure Pass&lt;/a&gt;,
+            &lt;a href=&quot;https://www.visualstudio.com/en-us/products/visual-studio-dev-essentials-vs.aspx&quot;&gt;Visual Studio Dev Essentials&lt;/a&gt;, or
+            &lt;a href=&quot;http://research.microsoft.com/en-us/projects/azure/default.aspx&quot;&gt;Azure for Research&lt;/a&gt;.
+            &lt;/p&gt;
+               &lt;p&gt;Your feedback is appreciated - please fork this repo and contribute!&lt;/p&gt; 
+               &lt;p&gt;If you want to report any issues we need to fix. Please log an &lt;a href=&quot;https://github.com/MSFTImagine/computerscience/issues&quot;&gt;issue&lt;/a&gt;. Include 
+               the content section (Tech Talk, Workshop, Course Content), module number and title, along with any error messages and screenshots.&lt;/p&gt; 
+             &lt;/div&gt;  
+         &lt;/div&gt;
+         &lt;div class=&quot;panel panel-default&quot;&gt;
+            &lt;div class=&quot;panel-heading&quot;&gt;
+               &lt;h3 class=&quot;panel-title&quot;&gt;Available academic resources&lt;/h3&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;panel-body&quot;&gt;
+            &lt;h2&gt;Content from DX Academic team&lt;/h2&gt;
+          &lt;table class=&quot;table table-bordered table-striped table-hover&quot;&gt;
+					&lt;tr&gt;
+					   &lt;td&gt;&lt;b&gt;Complimentary Course Content&lt;/b&gt;&lt;/td&gt;
+					   &lt;td&gt;[Link](https://github.com/MSFTImagine/computerscience/tree/master/Complimentary%20Course%20Content)&lt;/td&gt;
+					   &lt;td&gt;Learning modules to complement existing course instruction. Includes presentations, speaker notes, and hands-on labs.&lt;/td&gt;
+					&lt;/tr&gt;
+					&lt;tr&gt;
+					   &lt;td&gt;&lt;b&gt;Tech Talks&lt;/b&gt;&lt;/td&gt;
+					   &lt;td&gt;[Link](https://github.com/MSFTImagine/computerscience/tree/master/Tech%20Talks)&lt;/td&gt;
+					   &lt;td&gt;Presentations on emerging or innovative tech topics with speakers notes and demos. &lt;/td&gt;
+					&lt;/tr&gt;
+					&lt;tr&gt;
+					   &lt;td&gt;&lt;b&gt;Workshop&lt;/b&gt;&lt;/td&gt;
+					   &lt;td&gt;[Link](https://github.com/MSFTImagine/computerscience/tree/master/Workshop)&lt;/td&gt;
+					   &lt;td&gt;1-day hands-on lab using cross-platform technologies with Microsoft Azure.&lt;/td&gt;
+					&lt;/tr&gt;
+				 &lt;/table&gt;
+         &lt;h2&gt;Content from other sources&lt;/h2&gt;
+         &lt;table class=&quot;table table-bordered table-striped table-hover&quot;&gt;
+					&lt;tr&gt;
+					   &lt;td&gt;&lt;b&gt;Technical&lt;/b&gt;&lt;/td&gt;
+					   &lt;td&gt;[Link](https://github.com/Microsoft/TechnicalCommunityContent)&lt;/td&gt;
+					   &lt;td&gt;Hands on content from DX Community team, overlaps with workshop content here, but has some different modules.&lt;/td&gt;
+					&lt;/tr&gt;
+          &lt;tr&gt;
+					   &lt;td&gt;&lt;b&gt;Technical&lt;/b&gt;&lt;/td&gt;
+					   &lt;td&gt;[Link](http://aka.ms/NUSworkshop)&lt;/td&gt;
+					   &lt;td&gt;Bots and LUIS workshop from TE in Singapore.&lt;/td&gt;
+					&lt;/tr&gt;
+          &lt;tr&gt;
+					   &lt;td&gt;&lt;b&gt;Technical&lt;/b&gt;&lt;/td&gt;
+					   &lt;td&gt;[Link](https://github.com/Microsoft/CNTK/wiki/Setup-Windows-Binary-Script)&lt;/td&gt;
+					   &lt;td&gt;Resources to set up Cognitive Toolkit using notebooks from product team. After installing tutorials will be in c:\repos\bindings\python\tutorials.&lt;/td&gt;
+					&lt;/tr&gt;
+					&lt;tr&gt;
+					   &lt;td&gt;&lt;b&gt;Case Studies&lt;/b&gt;&lt;/td&gt;
+					   &lt;td&gt;[Link](https://microsoft.github.io/techcasestudies/)&lt;/td&gt;
+					   &lt;td&gt;Companies using Azure stories collected by the Ascend team.&lt;/td&gt;
+					&lt;/tr&gt;
+          &lt;tr&gt;
+					   &lt;td&gt;&lt;b&gt;Case Studies&lt;/b&gt;&lt;/td&gt;
+					   &lt;td&gt;[Link](https://www.microsoft.com/en-us/research/academic-program/microsoft-azure-for-research/)&lt;/td&gt;
+					   &lt;td&gt;Faculty using Azure for Research stories collected by Microsoft Research. Submit your own Azure research stories here too!&lt;/td&gt;
+					&lt;/tr&gt;
+          &lt;tr&gt;
+					   &lt;td&gt;&lt;b&gt;Data Sets&lt;/b&gt;&lt;/td&gt;
+					   &lt;td&gt;[Link](http://aka.ms/datascience)&lt;/td&gt;
+					   &lt;td&gt;Data sets shared by Microsoft Research for academic use.&lt;/td&gt;
+					&lt;/tr&gt;
+          &lt;tr&gt;
+					   &lt;td&gt;&lt;b&gt;Data Sets&lt;/b&gt;&lt;/td&gt;
+					   &lt;td&gt;[Link](https://docs.microsoft.com/en-us/azure/machine-learning/machine-learning-use-sample-datasets)&lt;/td&gt;
+					   &lt;td&gt;Data sets shared by Azure Machine Learning team to help explore machine learning.&lt;/td&gt;
+					&lt;/tr&gt;
+				 &lt;/table&gt;
+			&lt;/div&gt;
+      &lt;/div&gt;
+   &lt;/body&gt;
+&lt;/html&gt;
+</content>
+<category term="internship" />
+<category term="software" />
+<category term="machine_learning" />
+<category term="NLP" />
+<category term="Watson" />
+<category term="Docker" />
+<category term="Slack" />
+<category term="Bot" />
+<category term="AI" />
+<category term="Readytalk" />
+<summary>nah</summary>
+</entry>
+<entry>
+<title>SnapEasy</title>
+<link href="https://www.dannguyen.me/snapeasy/" rel="alternate" type="text/html" title="SnapEasy" />
+<published>2016-11-09T00:00:00-07:00</published>
+<updated>2016-11-09T00:00:00-07:00</updated>
+<id>https://www.dannguyen.me/snapeasy</id>
+<content type="html" xml:base="https://www.dannguyen.me/snapeasy/">&lt;p&gt;Coming Soon&lt;/p&gt;
+</content>
+<category term="internship" />
+<category term="software" />
+<category term="machine_learning" />
+<category term="NLP" />
+<category term="Watson" />
+<category term="Docker" />
+<category term="Slack" />
+<category term="Bot" />
+<category term="AI" />
+<category term="Readytalk" />
+<summary>On-Demand SnapChat GeoFilter Design Service</summary>
 </entry>
 <entry>
 <title>Recaptain</title>
@@ -746,161 +877,5 @@ end
 <category term="code" />
 <category term="highlighting" />
 <summary>Demo post displaying the various ways of highlighting code in Markdown.</summary>
-</entry>
-<entry>
-<title>A Post with Images, and NBA Memes</title>
-<link href="https://www.dannguyen.me/sample-post-images/" rel="alternate" type="text/html" title="A Post with Images, and NBA Memes" />
-<published>2013-05-22T00:00:00-06:00</published>
-<updated>2013-05-22T00:00:00-06:00</updated>
-<id>https://www.dannguyen.me/sample-post-images</id>
-<content type="html" xml:base="https://www.dannguyen.me/sample-post-images/">&lt;p&gt;Here are some examples of what a post with images might look like. If you want to display two or three images next to each other responsively use &lt;code class=&quot;highlighter-rouge&quot;&gt;figure&lt;/code&gt; with the appropriate &lt;code class=&quot;highlighter-rouge&quot;&gt;class&lt;/code&gt;. Each instance of &lt;code class=&quot;highlighter-rouge&quot;&gt;figure&lt;/code&gt; is auto-numbered and displayed in the caption.&lt;/p&gt;
-
-&lt;h3 id=&quot;figures-for-images-or-video&quot;&gt;Figures (for images or video)&lt;/h3&gt;
-
-&lt;h4 id=&quot;one-up&quot;&gt;One Up&lt;/h4&gt;
-
-&lt;figure&gt;
-	&lt;a href=&quot;http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_b.jpg&quot;&gt;&lt;img src=&quot;http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg&quot; /&gt;&lt;/a&gt;
-	&lt;figcaption&gt;&lt;a href=&quot;http://www.flickr.com/photos/80901381@N04/7758832526/&quot; title=&quot;Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr&quot;&gt;Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr&lt;/a&gt;.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Vero laborum commodo occupy. Semiotics voluptate mumblecore pug. Cosby sweater ullamco quinoa ennui assumenda, sapiente occupy delectus lo-fi. Ea fashion axe Marfa cillum aliquip. Retro Bushwick keytar cliche. Before they sold out sustainable gastropub Marfa readymade, ethical Williamsburg skateboard brunch qui consectetur gentrify semiotics. Mustache cillum irony, fingerstache magna pour-over keffiyeh tousled selfies.&lt;/p&gt;
-
-&lt;h4 id=&quot;two-up&quot;&gt;Two Up&lt;/h4&gt;
-
-&lt;p&gt;Apply the &lt;code class=&quot;highlighter-rouge&quot;&gt;half&lt;/code&gt; class like so to display two images side by side that share the same caption.&lt;/p&gt;
-
-&lt;p&gt;{% highlight html %}&lt;/p&gt;
-&lt;figure class=&quot;half&quot;&gt;
-    &lt;a href=&quot;/images/image-filename-1-large.jpg&quot;&gt;&lt;img src=&quot;/images/image-filename-1.jpg&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;/images/image-filename-2-large.jpg&quot;&gt;&lt;img src=&quot;/images/image-filename-2.jpg&quot; /&gt;&lt;/a&gt;
-    &lt;figcaption&gt;Caption describing these two images.&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt;{% endhighlight %}&lt;/p&gt;
-
-&lt;p&gt;And you’ll get something that looks like this:&lt;/p&gt;
-
-&lt;figure class=&quot;half&quot;&gt;
-	&lt;a href=&quot;http://placehold.it/1200x600.JPG&quot;&gt;&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; /&gt;&lt;/a&gt;
-	&lt;a href=&quot;http://placehold.it/1200x600.jpeg&quot;&gt;&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; /&gt;&lt;/a&gt;
-	&lt;figcaption&gt;Two images.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h4 id=&quot;three-up&quot;&gt;Three Up&lt;/h4&gt;
-
-&lt;p&gt;Apply the &lt;code class=&quot;highlighter-rouge&quot;&gt;third&lt;/code&gt; class like so to display three images side by side that share the same caption.&lt;/p&gt;
-
-&lt;p&gt;{% highlight html %}&lt;/p&gt;
-&lt;figure class=&quot;third&quot;&gt;
-	&lt;img src=&quot;/images/image-filename-1.jpg&quot; /&gt;
-	&lt;img src=&quot;/images/image-filename-2.jpg&quot; /&gt;
-	&lt;img src=&quot;/images/image-filename-3.jpg&quot; /&gt;
-	&lt;figcaption&gt;Caption describing these three images.&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt;{% endhighlight %}&lt;/p&gt;
-
-&lt;p&gt;And you’ll get something that looks like this:&lt;/p&gt;
-
-&lt;figure class=&quot;third&quot;&gt;
-	&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; /&gt;
-	&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; /&gt;
-	&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; /&gt;
-	&lt;figcaption&gt;Three images.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h3 id=&quot;alternative-way&quot;&gt;Alternative way&lt;/h3&gt;
-
-&lt;p&gt;Another way to achieve the same result is to include &lt;code class=&quot;highlighter-rouge&quot;&gt;gallery&lt;/code&gt; Liquid template. In this case you
-don’t have to write any HTML tags – just copy a small block of code, adjust the parameters (see below)
-and fill the block with any number of links to images. You can mix relative and external links.&lt;/p&gt;
-
-&lt;p&gt;Here is the block you might want to use:&lt;/p&gt;
-
-&lt;p&gt;{% highlight liquid %}
-{% raw %}
-{% capture images %}
-	http://vignette2.wikia.nocookie.net/naruto/images/9/97/Hinata.png
-	http://vignette4.wikia.nocookie.net/naruto/images/7/79/Hinata_Part_II.png
-	http://vignette1.wikia.nocookie.net/naruto/images/1/15/J%C5%ABho_S%C5%8Dshiken.png
-{% endcapture %}
-{% include gallery images=images caption=”Test images” cols=3 %}
-{% endraw %}
-{% endhighlight %}&lt;/p&gt;
-
-&lt;p&gt;Parameters:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;caption&lt;/code&gt;: Sets the caption under the gallery (see &lt;code class=&quot;highlighter-rouge&quot;&gt;figcaption&lt;/code&gt; HTML tag above);&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;cols&lt;/code&gt;: Sets the number of columns of the gallery.
-Available values: [1..3].&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;It will look something like this:&lt;/p&gt;
-
-&lt;p&gt;{% capture images %}
-	http://media.npr.org/assets/img/2016/03/29/ap_090911089838_sq-3271237f28995f6530d9634ff27228cae88e3440-s900-c85.jpg
-	https://s-media-cache-ak0.pinimg.com/originals/a0/5a/61/a05a6168b331ce2583f19d3e2488a4b1.jpg
-	http://www.yournewszone.com/wp-content/uploads/2016/05/nba-funniest-bloopers-of-all-time-vol-3-funny-basketball-youtube-thumbnail-640x400.jpg
-{% endcapture %}
-{% include gallery images=images caption=”Test images” cols=3 %}&lt;/p&gt;
-</content>
-<category term="sample post" />
-<category term="images" />
-<category term="test" />
-<summary>Examples and code for displaying images in posts.</summary>
-</entry>
-<entry>
-<title>Post with Image Feature</title>
-<link href="https://www.dannguyen.me/readability-feature-post/" rel="alternate" type="text/html" title="Post with Image Feature" />
-<published>2012-05-23T00:00:00-06:00</published>
-<updated>2012-05-23T00:00:00-06:00</updated>
-<id>https://www.dannguyen.me/readability-feature-post</id>
-<content type="html" xml:base="https://www.dannguyen.me/readability-feature-post/">&lt;p&gt;Portland in shoreditch Vice, labore typewriter pariatur hoodie fap sartorial Austin. Pinterest literally occupy Schlitz forage. Odio ad blue bottle vinyl, 90’s narwhal commodo bitters pour-over nostrud. Ugh est hashtag in, fingerstache adipisicing laboris esse Pinterest shabby chic Portland. Shoreditch bicycle rights anim, flexitarian laboris put a bird on it vinyl cupidatat narwhal. Hashtag artisan skateboard, flannel Bushwick nesciunt salvia aute fixie do plaid post-ironic dolor McSweeney’s. Cliche pour-over chambray nulla four loko skateboard sapiente hashtag.&lt;/p&gt;
-
-&lt;p&gt;Vero laborum commodo occupy. Semiotics voluptate mumblecore pug. Cosby sweater ullamco quinoa ennui assumenda, sapiente occupy delectus lo-fi. Ea fashion axe Marfa cillum aliquip. Retro Bushwick keytar cliche. Before they sold out sustainable gastropub Marfa readymade, ethical Williamsburg skateboard brunch qui consectetur gentrify semiotics. Mustache cillum irony, fingerstache magna pour-over keffiyeh tousled selfies.&lt;/p&gt;
-
-&lt;h2 id=&quot;cupidatat-90s-lo-fi-authentic-try-hard&quot;&gt;Cupidatat 90’s lo-fi authentic try-hard&lt;/h2&gt;
-
-&lt;p&gt;In pug Portland incididunt mlkshk put a bird on it vinyl quinoa. Terry Richardson shabby chic +1, scenester Tonx excepteur tempor fugiat voluptate fingerstache aliquip nisi next level. Farm-to-table hashtag Truffaut, Odd Future ex meggings gentrify single-origin coffee try-hard 90’s.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Sartorial hoodie&lt;/li&gt;
-  &lt;li&gt;Labore viral forage&lt;/li&gt;
-  &lt;li&gt;Tote bag selvage&lt;/li&gt;
-  &lt;li&gt;DIY exercitation et id ugh tumblr church-key&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Incididunt umami sriracha, ethical fugiat VHS ex assumenda yr irure direct trade. Marfa Truffaut bicycle rights, kitsch placeat Etsy kogi asymmetrical. Beard locavore flexitarian, kitsch photo booth hoodie plaid ethical readymade leggings yr.&lt;/p&gt;
-
-&lt;p&gt;Aesthetic odio dolore, meggings disrupt qui readymade stumptown brunch Terry Richardson pour-over gluten-free. Banksy american apparel in selfies, biodiesel flexitarian organic meh wolf quinoa gentrify banjo kogi. Readymade tofu ex, scenester dolor umami fingerstache occaecat fashion axe Carles jean shorts minim. Keffiyeh fashion axe nisi Godard mlkshk dolore. Lomo you probably haven’t heard of them eu non, Odd Future Truffaut pug keytar meggings McSweeney’s Pinterest cred. Etsy literally aute esse, eu bicycle rights qui meggings fanny pack. Gentrify leggings pug flannel duis.&lt;/p&gt;
-
-&lt;h2 id=&quot;forage-occaecat-cardigan-qui&quot;&gt;Forage occaecat cardigan qui&lt;/h2&gt;
-
-&lt;p&gt;Fashion axe hella gastropub lo-fi kogi 90’s aliquip +1 veniam delectus tousled. Cred sriracha locavore gastropub kale chips, iPhone mollit sartorial. Anim dolore 8-bit, pork belly dolor photo booth aute flannel small batch. Dolor disrupt ennui, tattooed whatever salvia Banksy sartorial roof party selfies raw denim sint meh pour-over. Ennui eu cardigan sint, gentrify iPhone cornhole.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Whatever velit occaecat quis deserunt gastropub, leggings elit tousled roof party 3 wolf moon kogi pug blue bottle ea. Fashion axe shabby chic Austin quinoa pickled laborum bitters next level, disrupt deep v accusamus non fingerstache.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Tote bag asymmetrical elit sunt. Occaecat authentic Marfa, hella McSweeney’s next level irure veniam master cleanse. Sed hoodie letterpress artisan wolf leggings, 3 wolf moon commodo ullamco. Anim occupy ea labore Terry Richardson. Tofu ex master cleanse in whatever pitchfork banh mi, occupy fugiat fanny pack Austin authentic. Magna fugiat 3 wolf moon, labore McSweeney’s sustainable vero consectetur. Gluten-free disrupt enim, aesthetic fugiat jean shorts trust fund keffiyeh magna try-hard.&lt;/p&gt;
-
-&lt;h2 id=&quot;hoodie-duis&quot;&gt;Hoodie Duis&lt;/h2&gt;
-
-&lt;p&gt;Actually salvia consectetur, hoodie duis lomo YOLO sunt sriracha. Aute pop-up brunch farm-to-table odio, salvia irure occaecat. Sriracha small batch literally skateboard. Echo Park nihil hoodie, aliquip forage artisan laboris. Trust fund reprehenderit nulla locavore. Stumptown raw denim kitsch, keffiyeh nulla twee dreamcatcher fanny pack ullamco 90’s pop-up est culpa farm-to-table. Selfies 8-bit do pug odio.&lt;/p&gt;
-
-&lt;h3 id=&quot;thundercats-ho&quot;&gt;Thundercats Ho!&lt;/h3&gt;
-
-&lt;p&gt;Fingerstache thundercats Williamsburg, deep v scenester Banksy ennui vinyl selfies mollit biodiesel duis odio pop-up. Banksy 3 wolf moon try-hard, sapiente enim stumptown deep v ad letterpress. Squid beard brunch, exercitation raw denim yr sint direct trade. Raw denim narwhal id, flannel DIY McSweeney’s seitan. Letterpress artisan bespoke accusamus, meggings laboris consequat Truffaut qui in seitan. Sustainable cornhole Schlitz, twee Cosby sweater banh mi deep v forage letterpress flannel whatever keffiyeh. Sartorial cred irure, semiotics ethical sed blue bottle nihil letterpress.&lt;/p&gt;
-
-&lt;p&gt;Occupy et selvage squid, pug brunch blog nesciunt hashtag mumblecore skateboard yr kogi. Ugh small batch swag four loko. Fap post-ironic qui tote bag farm-to-table american apparel scenester keffiyeh vero, swag non pour-over gentrify authentic pitchfork. Schlitz scenester lo-fi voluptate, tote bag irony bicycle rights pariatur vero Vice freegan wayfarers exercitation nisi shoreditch. Chambray tofu vero sed. Street art swag literally leggings, Cosby sweater mixtape PBR lomo Banksy non in pitchfork ennui McSweeney’s selfies. Odd Future Banksy non authentic.&lt;/p&gt;
-
-&lt;p&gt;Aliquip enim artisan dolor post-ironic. Pug tote bag Marfa, deserunt pour-over Portland wolf eu odio intelligentsia american apparel ugh ea. Sunt viral et, 3 wolf moon gastropub pug id. Id fashion axe est typewriter, mlkshk Portland art party aute brunch. Sint pork belly Cosby sweater, deep v mumblecore kitsch american apparel. Try-hard direct trade tumblr sint skateboard. Adipisicing bitters excepteur biodiesel, pickled gastropub aute veniam.&lt;/p&gt;
-</content>
-<category term="sample post" />
-<category term="readability" />
-<category term="test" />
-<category term="image" />
-<category term="feature" />
-<summary>A ton of text to test readability with image feature.</summary>
 </entry>
 </feed>
