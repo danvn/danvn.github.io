@@ -1,3 +1,18 @@
+---
+layout: post
+title:  "Kubernetes"
+date:   2017-04-06
+excerpt: "Kubernetes and scalable container orchestration."
+project: true
+tag:
+- DevelopIntelligence
+- 1-sheets
+- Big_Data
+- Docker
+- DevOps
+comments: true
+---
+
 # Kubernetes
 
 ## What does Kubernetes Solve?

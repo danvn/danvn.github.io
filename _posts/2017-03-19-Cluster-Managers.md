@@ -1,3 +1,18 @@
+---
+layout: post
+title:  "Cluster Managers"
+date:   2017-03-19
+excerpt: "Overview of Cluster Managers & Role with Containers."
+project: true
+tag:
+- DevelopIntelligence
+- 1-sheets
+- Big_Data
+- Docker
+- DevOps
+comments: true
+---
+
 # Cluster Managers
 
 Cloud-based infrastructure, containers, and new programming platforms are dominating and sweeping across IT departments across the world
