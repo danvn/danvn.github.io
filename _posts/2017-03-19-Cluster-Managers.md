@@ -3,7 +3,6 @@ layout: post
 title:  "Cluster Managers"
 date:   2017-03-19
 excerpt: "Overview of Cluster Managers & Role with Containers."
-project: true
 tag:
 - DevelopIntelligence
 - 1-sheets
