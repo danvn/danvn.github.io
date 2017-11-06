@@ -3,12 +3,29 @@
 <generator uri="http://jekyllrb.com" version="3.1.1">Jekyll</generator>
 <link href="https://www.dannguyen.me/feed.xml" rel="self" type="application/atom+xml" />
 <link href="https://www.dannguyen.me/" rel="alternate" type="text/html" />
-<updated>2017-04-22T15:35:10-06:00</updated>
+<updated>2017-11-05T22:27:34-07:00</updated>
 <id>https://www.dannguyen.me/</id>
 <subtitle></subtitle>
 <entry>
-<title></title>
-<link href="https://www.dannguyen.me/Kubernetes/" rel="alternate" type="text/html" title="" />
+<title>NBA on Twitter</title>
+<link href="https://www.dannguyen.me/NBA-On-Twitter/" rel="alternate" type="text/html" title="NBA on Twitter" />
+<published>2017-05-06T00:00:00-06:00</published>
+<updated>2017-05-06T00:00:00-06:00</updated>
+<id>https://www.dannguyen.me/NBA-On-Twitter</id>
+<content type="html" xml:base="https://www.dannguyen.me/NBA-On-Twitter/">&lt;p&gt;&lt;a href=&quot;https://www.dannguyen.me/NBA-On-Twitter/&quot;&gt;NBA on Twitter&lt;/a&gt;&lt;/p&gt;
+
+</content>
+<category term="nba" />
+<category term="analytics" />
+<category term="sports" />
+<category term="twitter" />
+<category term="data_visualization" />
+<category term="Big_Data" />
+<summary>Analyzing social media engagement of NBA teams through Twitter Mentions.</summary>
+</entry>
+<entry>
+<title>Kubernetes</title>
+<link href="https://www.dannguyen.me/Kubernetes/" rel="alternate" type="text/html" title="Kubernetes" />
 <published>2017-04-06T00:00:00-06:00</published>
 <updated>2017-04-06T00:00:00-06:00</updated>
 <id>https://www.dannguyen.me/Kubernetes</id>
@@ -124,11 +141,16 @@ Kubernetes fosters an ecosystem of components and tools that relieve the burden 
   &lt;li&gt;Companies need quicker deployment, which is why companies are flocking towards containers&lt;/li&gt;
 &lt;/ul&gt;
 </content>
-<summary>Kubernetes</summary>
+<category term="DevelopIntelligence" />
+<category term="1-sheets" />
+<category term="Big_Data" />
+<category term="Docker" />
+<category term="DevOps" />
+<summary>Kubernetes and scalable container orchestration.</summary>
 </entry>
 <entry>
-<title></title>
-<link href="https://www.dannguyen.me/Cluster-Managers/" rel="alternate" type="text/html" title=" " />
+<title>Cluster Managers</title>
+<link href="https://www.dannguyen.me/Cluster-Managers/" rel="alternate" type="text/html" title="Cluster Managers" />
 <published>2017-03-19T00:00:00-06:00</published>
 <updated>2017-03-19T00:00:00-06:00</updated>
 <id>https://www.dannguyen.me/Cluster-Managers</id>
@@ -225,215 +247,20 @@ Kubernetes fosters an ecosystem of components and tools that relieve the burden 
   &lt;/li&gt;
 &lt;/ul&gt;
 </content>
-<summary>Cluster Managers</summary>
-</entry>
-<entry>
-<title>Driving vs Having Drive</title>
-<link href="https://www.dannguyen.me/drive/" rel="alternate" type="text/html" title="Driving vs Having Drive" />
-<published>2017-02-26T00:00:00-07:00</published>
-<updated>2017-02-26T00:00:00-07:00</updated>
-<id>https://www.dannguyen.me/drive</id>
-<content type="html" xml:base="https://www.dannguyen.me/drive/">&lt;p&gt;Teslas can drive forever on the highway without knowing where they are going. They follow the guidelines, and the crowd in front of them. If you don’t put a destination in, you won’t ever arrive, but you &lt;i&gt;will&lt;/i&gt;, however keep going, and going, and going, with no clear intention of getting anywhere.&lt;/p&gt;
-
-&lt;p&gt;However if you give that car a driver, you’re going to get somewhere 999,999 times out of a million. It’s because the driver &lt;b&gt;needs to be somewhere&lt;/b&gt;. In fact, the driver knew where he or she needed to be before he even began the drive.&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Setting&lt;/b&gt; specific goals is the key to &lt;i&gt;reaching&lt;/i&gt; them.&lt;/p&gt;
-
-&lt;p&gt;It is obviously human nature to want to be successful. Every person wants to be successful, but not all can put in words what success means to them &lt;i&gt;personally&lt;/i&gt;. A man who clearly defines his own goals and vision of success will achieve them. As does a car with a driver, who knows where they need to be. 
-A man who who wants to be “successful”, without knowing what success means to him will not. He doesn’t know where he’s going; he’s in a Tesla (not a real one, the first guy is probably in a Tesla) driving down his road of life without setting his destination.&lt;/p&gt;
-
-&lt;p&gt;This is the difference between having drive, and driving (mindlessly). Intention to get somewhere is key.&lt;/p&gt;
-
-&lt;p&gt;Earl Nightingale’s book &lt;u&gt;The Stangest Secret&lt;/u&gt; paints it clearly.&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;&lt;i&gt;We become what we think about&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;Simply put, believe and achieve.&lt;/p&gt;
-
-&lt;p&gt;I took him up on his proposed &lt;b&gt;30 Day Challenge&lt;/b&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;For the next 30 days take control of your mind.
-    &lt;ul&gt;
-      &lt;li&gt;Each day do more than you have to do while maintaining a cheerful positive outlook, give of yourself more than you’ve ever done before.&lt;/li&gt;
-      &lt;li&gt;Do this knowing that your returns in like must be in direct proportion to what you give.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;The moment you decide on a goal, you are immediately a successful person.&lt;/li&gt;
-  &lt;li&gt;Don’t concern yourself to much with how you’re are going to achieve your goal.  Just know that you’re going to do it.
-    &lt;ul&gt;
-      &lt;li&gt;&lt;b&gt;Definitely the most important to me&lt;/b&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;b&gt;Goal: Get an internship at Nike for Summer 2017&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;I started setting clear goals&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Apply online&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;That was really easy.
-I’ve applied for the past 2 years and have been rejected by a robot e-mail every single year. I had a suspicion that my resume wasn’t even getting read at all, so this year I knew I had to set myself apart some way or another.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Set myself apart&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I developed a master scheme. I would create a video introduction of myself, because I felt that paper couldn’t represent how well I would fit into Nike, a good fit for the department and Just Do It culture are probably the #1 driving incentives for Nike HR, Recruitment, and Talent Acquisition. It took me a whole lot of time to film myself, script, and edit, but creating this video allowed me to &lt;b&gt;believe&lt;/b&gt;  that it would bring me closer.&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/70VnP6SCDmI&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Make sure somebody sees it&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;To get my introduction seen, I had to do some research. I looked up “Nike HR” on &lt;a href=&quot;http://www.LinkedIn.com&quot; title=&quot;LinkedIn&quot;&gt;LinkedIn&lt;/a&gt;.
-I saw a whole bunch of recruiters and immediately knew I was going to &lt;b&gt;cold e-mail&lt;/b&gt; all of them. Unfortunately, their e-mails weren’t on their LinkedIn accounts, so I literally took their names and guessed/assumed that it would be &lt;code class=&quot;highlighter-rouge&quot;&gt;firstname.lastname@nike.com&lt;/code&gt;.&lt;/p&gt;
-
-&lt;p&gt;I sent out at least 20 guessed e-mails, and only got 4 mail daemon errors of the e-mail not existing, but for a week, nobody replied.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Find / Create a way in&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Again, on &lt;a href=&quot;http://www.linkedin.com&quot; title=&quot;LinkedIn&quot;&gt;LinkedIn&lt;/a&gt;, I devised a new strategy. I looked up “Nike Intern” and I found someone who had a title of “Incoming Nike Technology Intern” which is the position I applied for as well as the Digital Internship. I didn’t have any common connections but I thought hey, there’s nothing to lose in trying. I connected with Natalia and asked her how long it took for her hiring process. She told me about how she applied through the campus and that she got an offer within like 2 weeks!&lt;/p&gt;
-
-&lt;p&gt;&lt;i&gt; I learned that people will almost always help if you ask them to.&lt;/i&gt;&lt;/p&gt;
-
-&lt;p&gt;Natalia learned that I had no contacts with Nike, so she offered to help me out! She gave me the e-mail of the HR that helped her during her onboarding process. I sent the HR an e-mail and after a week of limbo I got a reply from Nike. After 2 phone interviews, I got an e-mail with an offer to Nike for an internship this summer!&lt;/p&gt;
-
-&lt;p&gt;The best part of the process was finding out after I was hired, &lt;b&gt;no one even watched my damn video that I put 10-15 hours into&lt;/b&gt;. During my phone interview, I asked her if she saw my introduction video I attached and she said no! LMAOOOO 
-As you can see, I only got 1 view from Oregon (Nike HQ is located in Beaverton, OR), and I talked to 3 people who I sent it to. And the viewer only watched half the video before clicking away.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/vid_view_map.png&quot; alt=&quot;alt text&quot; title=&quot;Map&quot; /&gt;&lt;/p&gt;
-
-</content>
-<category term="greatness" />
-<category term="nike" />
-<category term="internship" />
-<summary>Why having drive is the most important in acheiving goals.</summary>
-</entry>
-<entry>
-<title>testmd</title>
-<link href="https://www.dannguyen.me/testmd/" rel="alternate" type="text/html" title="testmd" />
-<published>2016-11-09T00:00:00-07:00</published>
-<updated>2016-11-09T00:00:00-07:00</updated>
-<id>https://www.dannguyen.me/testmd</id>
-<content type="html" xml:base="https://www.dannguyen.me/testmd/">&lt;html lang=&quot;en&quot;&gt;
-   &lt;head&gt;
-      &lt;meta charset=&quot;utf-8&quot; /&gt;
-      &lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge&quot; /&gt;
-      &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1&quot; /&gt;
-      &lt;title&gt;Academic Resources for Computer Science&lt;/title&gt;
-	  &lt;link rel=&quot;stylesheet&quot; href=&quot;style.css&quot; /&gt;
-   &lt;/head&gt;
-   &lt;body id=&quot;home&quot;&gt;
-      &lt;div class=&quot;container&quot;&gt;
-         &lt;div class=&quot;jumbotron&quot;&gt;
-            &lt;h1&gt;Academic Resources for Computer Science&lt;/h1&gt;
-            &lt;p&gt;&lt;b&gt;August 2016 release.&lt;/b&gt; &lt;i&gt;The content and code on this repo is in Preview. It&#39;s intended for review and collaboration with Microsoft developer advocates and the academic community under &lt;a href=&quot;https://github.com/MSFTImagine/computerscience/blob/master/LICENSE.md&quot;&gt;MIT license&lt;/a&gt;. Please check back regularly for updated versions.&lt;/i&gt; &lt;b&gt;Source:&lt;/b&gt; &lt;a href=&quot;https://github.com/MSFTImagine/computerscience&quot;&gt;https://github.com/MSFTImagine/computerscience&lt;/a&gt;.&lt;/p&gt;
-            &lt;p&gt;
-               This repo provides technical resources for faculty, students, and Microsoft developer advocates for use in computer science learning. The modules cover common cross-platform scenarios including mobile app dev, web dev, internet of things, data science, machine learning, and devops. Content delivery is divided into three groups: Complimentary Course Content, Tech Talks, and Workshops.&lt;/p&gt;
-               &lt;p&gt;Most hands-on learning focuses on how to deploy cross-platform technologies on Microsoft Azure although most of the concepts can be applied across many cloud platform solutions. Academic users can get free Azure from various programs like 
-            &lt;a href=&quot;https://azure.microsoft.com/en-us/free/&quot;&gt;Free Azure Trial&lt;/a&gt;, 
-            &lt;a href=&quot;https://www.dreamspark.com/student/default.aspx&quot;&gt;Microsoft Imagine&lt;/a&gt;, 
-            &lt;a href=&quot;http://www.microsoftazurepass.com/&quot;&gt;Azure Pass&lt;/a&gt;,
-            &lt;a href=&quot;https://www.visualstudio.com/en-us/products/visual-studio-dev-essentials-vs.aspx&quot;&gt;Visual Studio Dev Essentials&lt;/a&gt;, or
-            &lt;a href=&quot;http://research.microsoft.com/en-us/projects/azure/default.aspx&quot;&gt;Azure for Research&lt;/a&gt;.
-            &lt;/p&gt;
-               &lt;p&gt;Your feedback is appreciated - please fork this repo and contribute!&lt;/p&gt; 
-               &lt;p&gt;If you want to report any issues we need to fix. Please log an &lt;a href=&quot;https://github.com/MSFTImagine/computerscience/issues&quot;&gt;issue&lt;/a&gt;. Include 
-               the content section (Tech Talk, Workshop, Course Content), module number and title, along with any error messages and screenshots.&lt;/p&gt; 
-             &lt;/div&gt;  
-         &lt;/div&gt;
-         &lt;div class=&quot;panel panel-default&quot;&gt;
-            &lt;div class=&quot;panel-heading&quot;&gt;
-               &lt;h3 class=&quot;panel-title&quot;&gt;Available academic resources&lt;/h3&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;panel-body&quot;&gt;
-            &lt;h2&gt;Content from DX Academic team&lt;/h2&gt;
-          &lt;table class=&quot;table table-bordered table-striped table-hover&quot;&gt;
-					&lt;tr&gt;
-					   &lt;td&gt;&lt;b&gt;Complimentary Course Content&lt;/b&gt;&lt;/td&gt;
-					   &lt;td&gt;[Link](https://github.com/MSFTImagine/computerscience/tree/master/Complimentary%20Course%20Content)&lt;/td&gt;
-					   &lt;td&gt;Learning modules to complement existing course instruction. Includes presentations, speaker notes, and hands-on labs.&lt;/td&gt;
-					&lt;/tr&gt;
-					&lt;tr&gt;
-					   &lt;td&gt;&lt;b&gt;Tech Talks&lt;/b&gt;&lt;/td&gt;
-					   &lt;td&gt;[Link](https://github.com/MSFTImagine/computerscience/tree/master/Tech%20Talks)&lt;/td&gt;
-					   &lt;td&gt;Presentations on emerging or innovative tech topics with speakers notes and demos. &lt;/td&gt;
-					&lt;/tr&gt;
-					&lt;tr&gt;
-					   &lt;td&gt;&lt;b&gt;Workshop&lt;/b&gt;&lt;/td&gt;
-					   &lt;td&gt;[Link](https://github.com/MSFTImagine/computerscience/tree/master/Workshop)&lt;/td&gt;
-					   &lt;td&gt;1-day hands-on lab using cross-platform technologies with Microsoft Azure.&lt;/td&gt;
-					&lt;/tr&gt;
-				 &lt;/table&gt;
-         &lt;h2&gt;Content from other sources&lt;/h2&gt;
-         &lt;table class=&quot;table table-bordered table-striped table-hover&quot;&gt;
-					&lt;tr&gt;
-					   &lt;td&gt;&lt;b&gt;Technical&lt;/b&gt;&lt;/td&gt;
-					   &lt;td&gt;[Link](https://github.com/Microsoft/TechnicalCommunityContent)&lt;/td&gt;
-					   &lt;td&gt;Hands on content from DX Community team, overlaps with workshop content here, but has some different modules.&lt;/td&gt;
-					&lt;/tr&gt;
-          &lt;tr&gt;
-					   &lt;td&gt;&lt;b&gt;Technical&lt;/b&gt;&lt;/td&gt;
-					   &lt;td&gt;[Link](http://aka.ms/NUSworkshop)&lt;/td&gt;
-					   &lt;td&gt;Bots and LUIS workshop from TE in Singapore.&lt;/td&gt;
-					&lt;/tr&gt;
-          &lt;tr&gt;
-					   &lt;td&gt;&lt;b&gt;Technical&lt;/b&gt;&lt;/td&gt;
-					   &lt;td&gt;[Link](https://github.com/Microsoft/CNTK/wiki/Setup-Windows-Binary-Script)&lt;/td&gt;
-					   &lt;td&gt;Resources to set up Cognitive Toolkit using notebooks from product team. After installing tutorials will be in c:\repos\bindings\python\tutorials.&lt;/td&gt;
-					&lt;/tr&gt;
-					&lt;tr&gt;
-					   &lt;td&gt;&lt;b&gt;Case Studies&lt;/b&gt;&lt;/td&gt;
-					   &lt;td&gt;[Link](https://microsoft.github.io/techcasestudies/)&lt;/td&gt;
-					   &lt;td&gt;Companies using Azure stories collected by the Ascend team.&lt;/td&gt;
-					&lt;/tr&gt;
-          &lt;tr&gt;
-					   &lt;td&gt;&lt;b&gt;Case Studies&lt;/b&gt;&lt;/td&gt;
-					   &lt;td&gt;[Link](https://www.microsoft.com/en-us/research/academic-program/microsoft-azure-for-research/)&lt;/td&gt;
-					   &lt;td&gt;Faculty using Azure for Research stories collected by Microsoft Research. Submit your own Azure research stories here too!&lt;/td&gt;
-					&lt;/tr&gt;
-          &lt;tr&gt;
-					   &lt;td&gt;&lt;b&gt;Data Sets&lt;/b&gt;&lt;/td&gt;
-					   &lt;td&gt;[Link](http://aka.ms/datascience)&lt;/td&gt;
-					   &lt;td&gt;Data sets shared by Microsoft Research for academic use.&lt;/td&gt;
-					&lt;/tr&gt;
-          &lt;tr&gt;
-					   &lt;td&gt;&lt;b&gt;Data Sets&lt;/b&gt;&lt;/td&gt;
-					   &lt;td&gt;[Link](https://docs.microsoft.com/en-us/azure/machine-learning/machine-learning-use-sample-datasets)&lt;/td&gt;
-					   &lt;td&gt;Data sets shared by Azure Machine Learning team to help explore machine learning.&lt;/td&gt;
-					&lt;/tr&gt;
-				 &lt;/table&gt;
-			&lt;/div&gt;
-      &lt;/div&gt;
-   &lt;/body&gt;
-&lt;/html&gt;
-</content>
-<category term="internship" />
-<category term="software" />
-<category term="machine_learning" />
-<category term="NLP" />
-<category term="Watson" />
+<category term="DevelopIntelligence" />
+<category term="1-sheets" />
+<category term="Big_Data" />
 <category term="Docker" />
-<category term="Slack" />
-<category term="Bot" />
-<category term="AI" />
-<category term="Readytalk" />
-<summary>nah</summary>
+<category term="DevOps" />
+<summary>Overview of Cluster Managers &amp;amp; Role with Containers.</summary>
 </entry>
 <entry>
 <title>SnapEasy</title>
-<link href="https://www.dannguyen.me/snapeasy/" rel="alternate" type="text/html" title="SnapEasy" />
+<link href="https://www.dannguyen.me/SnapEasy/" rel="alternate" type="text/html" title="SnapEasy" />
 <published>2016-11-09T00:00:00-07:00</published>
 <updated>2016-11-09T00:00:00-07:00</updated>
-<id>https://www.dannguyen.me/snapeasy</id>
-<content type="html" xml:base="https://www.dannguyen.me/snapeasy/">&lt;p&gt;Coming Soon&lt;/p&gt;
+<id>https://www.dannguyen.me/SnapEasy</id>
+<content type="html" xml:base="https://www.dannguyen.me/SnapEasy/">&lt;p&gt;Coming Soon&lt;/p&gt;
 </content>
 <category term="internship" />
 <category term="software" />
@@ -918,5 +745,135 @@ feaure: http://example.com/some-image.png
 <category term="post" />
 <category term="video" />
 <summary>Custom written post descriptions are the way to go… if you’re not lazy.</summary>
+</entry>
+<entry>
+<title>Syntax Highlighting Post</title>
+<link href="https://www.dannguyen.me/code-highlighting-post/" rel="alternate" type="text/html" title="Syntax Highlighting Post" />
+<published>2013-08-16T00:00:00-06:00</published>
+<updated>2013-08-16T00:00:00-06:00</updated>
+<id>https://www.dannguyen.me/code-highlighting-post</id>
+<content type="html" xml:base="https://www.dannguyen.me/code-highlighting-post/">&lt;p&gt;Syntax highlighting is a feature that displays source code, in different colors and fonts according to the category of terms. This feature facilitates writing in a structured language such as a programming language or a markup language as both structures and syntax errors are visually distinct. Highlighting does not affect the meaning of the text itself; it is intended only for human readers.&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;highlighted-code-blocks&quot;&gt;Highlighted Code Blocks&lt;/h3&gt;
+
+&lt;p&gt;To modify styling and highlight colors edit &lt;code class=&quot;highlighter-rouge&quot;&gt;/assets/css/syntax.css&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;{% highlight css %}
+#container {
+    float: left;
+    margin: 0 -240px 0 0;
+    width: 100%;
+}
+{% endhighlight %}&lt;/p&gt;
+
+&lt;p&gt;{% highlight html %}
+{% raw %}&lt;/p&gt;
+&lt;nav class=&quot;pagination&quot; role=&quot;navigation&quot;&gt;
+    {% if page.previous %}
+        &lt;a href=&quot;{{ site.url }}{{ page.previous.url }}&quot; class=&quot;btn&quot; title=&quot;{{ page.previous.title }}&quot;&gt;Previous article&lt;/a&gt;
+    {% endif %}
+    {% if page.next %}
+        &lt;a href=&quot;{{ site.url }}{{ page.next.url }}&quot; class=&quot;btn&quot; title=&quot;{{ page.next.title }}&quot;&gt;Next article&lt;/a&gt;
+    {% endif %}
+&lt;/nav&gt;
+&lt;!-- /.pagination --&gt;
+&lt;p&gt;{% endraw %}
+{% endhighlight %}&lt;/p&gt;
+
+&lt;p&gt;{% highlight ruby %}
+module Jekyll
+  class TagIndex &amp;lt; Page
+    def initialize(site, base, dir, tag)
+      &lt;a href=&quot;https://github.com/site&quot; class=&quot;user-mention&quot;&gt;&lt;a href=&quot;https://github.com/site&quot; class=&quot;user-mention&quot;&gt;@site&lt;/a&gt;&lt;/a&gt; = site
+      &lt;a href=&quot;https://github.com/base&quot; class=&quot;user-mention&quot;&gt;&lt;a href=&quot;https://github.com/base&quot; class=&quot;user-mention&quot;&gt;@base&lt;/a&gt;&lt;/a&gt; = base
+      &lt;a href=&quot;https://github.com/dir&quot; class=&quot;user-mention&quot;&gt;&lt;a href=&quot;https://github.com/dir&quot; class=&quot;user-mention&quot;&gt;@dir&lt;/a&gt;&lt;/a&gt; = dir
+      &lt;a href=&quot;https://github.com/name&quot; class=&quot;user-mention&quot;&gt;&lt;a href=&quot;https://github.com/name&quot; class=&quot;user-mention&quot;&gt;@name&lt;/a&gt;&lt;/a&gt; = ‘index.html’
+      self.process(&lt;a href=&quot;https://github.com/name&quot; class=&quot;user-mention&quot;&gt;&lt;a href=&quot;https://github.com/name&quot; class=&quot;user-mention&quot;&gt;@name&lt;/a&gt;&lt;/a&gt;)
+      self.read_yaml(File.join(base, ‘_layouts’), ‘tag_index.html’)
+      self.data[‘tag’] = tag
+      tag_title_prefix = site.config[‘tag_title_prefix’] || ‘Tagged: ‘
+      tag_title_suffix = site.config[‘tag_title_suffix’] || ‘–’
+      self.data[‘title’] = “#{tag_title_prefix}#{tag}”
+      self.data[‘description’] = “An archive of posts tagged #{tag}.”
+    end
+  end
+end
+{% endhighlight %}&lt;/p&gt;
+
+&lt;h3 id=&quot;standard-code-block&quot;&gt;Standard Code Block&lt;/h3&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;raw&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;&amp;lt;nav&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;pagination&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;role=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;navigation&quot;&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;if&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;page.previous&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+        &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;&amp;lt;a&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;{{ site.url }}{{ page.previous.url }}&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;btn&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;title=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;{{ page.previous.title }}&quot;&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;&amp;gt;Previous&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;article&amp;lt;/a&amp;gt;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;endif&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;if&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;page.next&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+        &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;&amp;lt;a&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;{{ site.url }}{{ page.next.url }}&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;btn&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;title=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;{{ page.next.title }}&quot;&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;&amp;gt;Next&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;article&amp;lt;/a&amp;gt;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;endif&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;&amp;lt;/nav&amp;gt;&amp;lt;!--&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;/.pagination&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;--&amp;gt;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;endraw&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&quot;fenced-code-blocks&quot;&gt;Fenced Code Blocks&lt;/h3&gt;
+
+&lt;p&gt;To modify styling and highlight colors edit &lt;code class=&quot;highlighter-rouge&quot;&gt;/assets/css/syntax.css&lt;/code&gt;. Line numbers and a few other things can be modified in &lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt;. Consult &lt;a href=&quot;http://jekyllrb.com/docs/configuration/&quot;&gt;Jekyll’s documentation&lt;/a&gt; for more information.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nf&quot;&gt;#container&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;nl&quot;&gt;float&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;left&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;nl&quot;&gt;margin&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;-240px&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;nl&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;100%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;{% raw %}&lt;span class=&quot;nt&quot;&gt;&amp;lt;nav&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;pagination&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;role=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;navigation&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+    {% if page.previous %}
+        &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;{{ site.url }}{{ page.previous.url }}&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;btn&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;title=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;{{ page.previous.title }}&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Previous article&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
+    {% endif %}
+    {% if page.next %}
+        &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;{{ site.url }}{{ page.next.url }}&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;btn&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;title=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;{{ page.next.title }}&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Next article&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
+    {% endif %}
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/nav&amp;gt;&lt;/span&gt;&lt;span class=&quot;c&quot;&gt;&amp;lt;!-- /.pagination --&amp;gt;&lt;/span&gt;{% endraw %}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;module&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;Jekyll&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;TagIndex&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Page&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;initialize&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;site&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;base&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;dir&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;tag&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+      &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;href&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;https://github.com/site&#39;&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;user-mention&#39;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;href&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;https://github.com/site&#39;&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;user-mention&#39;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;vi&quot;&gt;@site&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;sr&quot;&gt;/a&amp;gt;&amp;lt;/&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;site&lt;/span&gt;
+      &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;href&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;https://github.com/base&#39;&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;user-mention&#39;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;href&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;https://github.com/base&#39;&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;user-mention&#39;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;vi&quot;&gt;@base&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;sr&quot;&gt;/a&amp;gt;&amp;lt;/&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;base&lt;/span&gt;
+      &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;href&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;https://github.com/dir&#39;&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;user-mention&#39;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;href&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;https://github.com/dir&#39;&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;user-mention&#39;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;vi&quot;&gt;@dir&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;sr&quot;&gt;/a&amp;gt;&amp;lt;/&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;dir&lt;/span&gt;
+      &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;href&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;https://github.com/name&#39;&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;user-mention&#39;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;href&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;https://github.com/name&#39;&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;user-mention&#39;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;vi&quot;&gt;@name&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;sr&quot;&gt;/a&amp;gt;&amp;lt;/&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&#39;index.html&#39;&lt;/span&gt;
+      &lt;span class=&quot;nb&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;process&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;href&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;https://github.com/name&#39;&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;user-mention&#39;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;href&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;https://github.com/name&#39;&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;user-mention&#39;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;vi&quot;&gt;@name&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;sr&quot;&gt;/a&amp;gt;&amp;lt;/&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+      &lt;span class=&quot;nb&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;read_yaml&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;File&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;join&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;base&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&#39;_layouts&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&#39;tag_index.html&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+      &lt;span class=&quot;nb&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;data&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;tag&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;tag&lt;/span&gt;
+      &lt;span class=&quot;n&quot;&gt;tag_title_prefix&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;site&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;config&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;tag_title_prefix&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;||&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&#39;Tagged: &#39;&lt;/span&gt;
+      &lt;span class=&quot;n&quot;&gt;tag_title_suffix&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;site&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;config&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;tag_title_suffix&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;||&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&#39;&amp;amp;#8211;&#39;&lt;/span&gt;
+      &lt;span class=&quot;nb&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;data&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;title&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;tag_title_prefix&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}#{&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;tag&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+      &lt;span class=&quot;nb&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;data&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;description&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;An archive of posts tagged &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;tag&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;.&quot;&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&quot;github-gist-embed&quot;&gt;GitHub Gist Embed&lt;/h3&gt;
+
+&lt;p&gt;An example of a Gist embed below.&lt;/p&gt;
+
+&lt;p&gt;{% gist mmistakes/6589546 %}&lt;/p&gt;
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Syntax_highlighting&quot;&gt;http://en.wikipedia.org/wiki/Syntax_highlighting&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</content>
+<category term="sample post" />
+<category term="code" />
+<category term="highlighting" />
+<summary>Demo post displaying the various ways of highlighting code in Markdown.</summary>
 </entry>
 </feed>

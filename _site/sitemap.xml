@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>https://www.dannguyen.me/NBA-On-Twitter/</loc>
+<lastmod>2017-05-06T00:00:00-06:00</lastmod>
+</url>
+<url>
 <loc>https://www.dannguyen.me/Kubernetes/</loc>
 <lastmod>2017-04-06T00:00:00-06:00</lastmod>
 </url>
@@ -9,15 +13,7 @@
 <lastmod>2017-03-19T00:00:00-06:00</lastmod>
 </url>
 <url>
-<loc>https://www.dannguyen.me/drive/</loc>
-<lastmod>2017-02-26T00:00:00-07:00</lastmod>
-</url>
-<url>
-<loc>https://www.dannguyen.me/testmd/</loc>
-<lastmod>2016-11-09T00:00:00-07:00</lastmod>
-</url>
-<url>
-<loc>https://www.dannguyen.me/snapeasy/</loc>
+<loc>https://www.dannguyen.me/SnapEasy/</loc>
 <lastmod>2016-11-09T00:00:00-07:00</lastmod>
 </url>
 <url>
@@ -41,10 +37,6 @@
 <lastmod>2016-03-15T00:00:00-06:00</lastmod>
 </url>
 <url>
-<loc>https://www.dannguyen.me/mathjax-example/</loc>
-<lastmod>2015-08-10T00:00:00-06:00</lastmod>
-</url>
-<url>
 <loc>https://www.dannguyen.me/code-highlighting-post/</loc>
 <lastmod>2013-08-16T00:00:00-06:00</lastmod>
 </url>
@@ -55,10 +47,6 @@
 <url>
 <loc>https://www.dannguyen.me/readability-feature-post/</loc>
 <lastmod>2012-05-23T00:00:00-06:00</lastmod>
-</url>
-<url>
-<loc>https://www.dannguyen.me/readability-post/</loc>
-<lastmod>2012-05-22T00:00:00-06:00</lastmod>
 </url>
 <url>
 <loc>https://www.dannguyen.me/404</loc>

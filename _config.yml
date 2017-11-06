@@ -1,6 +1,6 @@
 # Site
 title:              Dan Nguyen
-bio:                "University of Colorado, Boulder<br>Computer Science B.S. 2018<br/><br>Application Engineer<br>2017 Nike Internship Program <br/><br/> Software Player <br> Basketball Developer"
+bio:                "University of Colorado, Boulder<br>Computer Science B.S. 2018<br/><br>Application Engineer<br><a href='https://www.youtube.com/watch?v=70VnP6SCDmI'><u>2017 Nike Internship Program</u></a> <br/><br/> Software Player <br> Basketball Developer"
 description:        ""
 reading_time:       true
 words_per_minute:   200
@@ -26,7 +26,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   
+disqus_shortname:
 
 # Social
 # if you don't have any of social below, comment the line.
